@@ -1,20 +1,21 @@
 # 🎬 DramaBox API
 
-API ini memungkinkan pengembang untuk mengambil data konten terbaru, trending, melakukan pencarian, hingga mendapatkan link streaming video drama.
-> NOTE: Source code yang ada di repo sudah tidak bisa digunakan karena berganti metode, untuk source code yang baru tidak akan saya share. tapi tenang kamu tetap bisa gunakan dramabox api gratis di [Dramabox API](https://api.sansekai.my.id)
+This API allows developers to fetch the latest content, trending items, perform searches, and obtain drama video streaming links.
 
-## 🚀 Base URL & Dokumentasi
+> NOTE: The source code in this repository can no longer be used because the method has changed; I will not share the new source code. However, you can still use the free Dramabox API at [...]
+  
+## 🚀 Base URL & Documentation
 
-Semua request ditujukan ke host berikut:
-[https://api.sansekai.my.id](https://api.sansekai.my.id)
+All requests are directed to the following host:
+https://api.sansekai.my.id
 
 -----
 
-## 💼 Pembelian Source Code
+## 💼 Purchase Source Code
 
-Anda tertarik untuk memiliki source code lengkap dari API ini?
+Interested in owning the full source code for this API?
 
-Silakan klik link pembelian:
-**[Beli Source Code](https://lynk.id/sansekai/mxd6j2ezmxoe)**
+Click the purchase link:
+**[Buy Source Code](https://lynk.id/sansekai/mxd6j2ezmxoe)**
 
 -----

@@ -1,15 +1,15 @@
 import axios from "axios";
 
-// function getToken() {
+// get a token
 const token = async () => {
     try {
-// Bagi yang mau beli source code auto generate tokennya bisa ke link: https://lynk.id/sansekai/mxd6j2ezmxoe
-// karena API generate token ini sewaktu-waktu bisa dimatikan tanpa pemberitahuan sebelumnya.
-    const res = await axios.get("https://dramabox-token.vercel.app/token");
-    return res.data;
+        // If you want to buy the source code (auto-generate token), visit: https://lynk.id/sansekai/mxd6j2ezmxoe
+        // Note: the token generation API may be turned off at any time without prior notice.
+        const res = await axios.get("https://dramabox-token.vercel.app/token");
+        return res.data;
     } catch (error) {
-    throw error;
-}
+        throw error;
+    }
 }
 
 export { token };
